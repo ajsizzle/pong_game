@@ -12,6 +12,7 @@ screen.tracer(0)
 
 user_paddle = Paddle((350, 0))
 comp_paddle = Paddle((-350, 0))
+# TODO: Add comp_paddle automation
 ball = Ball()
 scoreboard = Scoreboard()
 
